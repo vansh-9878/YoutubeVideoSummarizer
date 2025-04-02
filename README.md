@@ -41,5 +41,5 @@ This is an example summary generated from the most frequent words in the transcr
 - `spaCy` is used for **NLP processing**, and the `n_core_web_sm` model is required.
 
 ## 📜 License
-This project is licensed under the **GNU License**.
+This project is licensed under the **GPL License**.
 
